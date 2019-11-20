@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Api RESTfull",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanse962/Angular-React-Vue.git"
+  },
+  "author": "Juan Sebastian Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanse962/Angular-React-Vue/issues"
+  },
+  "homepage": "https://github.com/juanse962/Angular-React-Vue#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12",
+    "mongose": "0.0.2-security",
+    "validator": "^12.0.0"
+  }
+}
